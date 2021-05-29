@@ -15,6 +15,8 @@ The idea of this challenge is to implement a fictional service to enable real es
   * ```spring.datasource.username=changeme```
   * ```spring.datasource.password=changeme```
 
+PS.: The database structure (table and columns) will be automatically created when you first run the application.
+
 ### Run tests & Build the application 
 ```
 gradle build --console plain
